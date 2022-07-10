@@ -1,2 +1,2 @@
-# ML-Fundamentals 🤖📖
-Building Machine Learning projects from scratch using gradient descent.
+# Machine Learning Fundamentals 🤖📖
+Fundamental algorithms to build Machine Learning models from scratch.
