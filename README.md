@@ -1,2 +1,2 @@
 # ML-Fundamentals
-Machine Learning fundamentals, from Stanford's course on Coursera
+Building Machine Learning projects from scratch using gradient descent.
